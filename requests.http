@@ -1,0 +1,6 @@
+@baseUrl = http://localhost:1337
+@jwt = tobemodified
+
+### Public: получить посты (если разрешено Public)
+GET {{baseUrl}}/api/global
+
