@@ -1,5 +1,5 @@
 /**
- * `page-populate` middleware
+ * `global-page-populate` middleware
  */
 
 import type { Core } from "@strapi/strapi";
